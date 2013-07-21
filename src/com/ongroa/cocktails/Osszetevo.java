@@ -62,6 +62,11 @@ public class Osszetevo implements Comparable<Osszetevo>, Serializable {
 		return o.mennyiseg.equals(this.mennyiseg) &&
 				o.nev.equals(this.nev);
 	}
+	
+	@Override
+	public int hashCode() {
+		return mennyiseg.hashCode() + nev.hashCode();
+	}
 
 	@Override
 	public int compareTo(Osszetevo o) {
