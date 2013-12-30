@@ -7,6 +7,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Random;
@@ -231,9 +233,6 @@ public class CocktailsAndQuiz implements Serializable {
 		Object obj = null;
 		JSONParser parser = new JSONParser();
 		try {
-//			BufferedReader reader = new BufferedReader(
-//	                 new InputStreamReader(context.getAssets().open("cocktails.txt")));
-//			obj = parser.parse(new FileReader(fileName));
 			obj = parser.parse(reader);
 		} catch (ParseException e) {
 			e.printStackTrace();
@@ -269,8 +268,20 @@ public class CocktailsAndQuiz implements Serializable {
 				cocktail.setOsszetevok(osszetevok);
 				mCocktails.add(cocktail);
 			}
+			sortCocktails();
 			//			printCocktails();
 		}
+	}
+
+	private void sortCocktails() {
+		Collections.sort(mCocktails, new Comparator<Cocktail>() {
+
+			@Override
+			public int compare(Cocktail arg0, Cocktail arg1) {
+				return arg0.getName().compareTo(arg1.getName());
+			}
+			
+		});
 	} 
 
 	@SuppressWarnings("unused")
