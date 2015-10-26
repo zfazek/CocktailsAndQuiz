@@ -1,0 +1,1115 @@
+[
+  {
+    "fajta": "digestif",
+    "pohar": "koktél",
+    "name": "Brandy Alexander",
+    "disz": "őrölt szerecsendió",
+    "osszetevok": [
+      {
+        "mennyiseg": "2 cl",
+        "name": "Metaxa 5*"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Creme de Cacao Brown"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "tejszín"
+      }
+    ],
+    "alapszesz": "brandy"
+  },
+  {
+    "fajta": "aperitif",
+    "pohar": "old fashioned",
+    "name": "Americano",
+    "disz": "citrom peel, narancsszelet, rövidre vágott szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "3 cl",
+        "name": "vermouth rosso"
+      },
+      {
+        "mennyiseg": "3 cl",
+        "name": "Campari"
+      },
+      {
+        "mennyiseg": "1 spricc",
+        "name": "szóda"
+      }
+    ],
+    "alapszesz": "vermouth"
+  },
+  {
+    "fajta": "aperitif",
+    "pohar": "koktél",
+    "name": "Bronx",
+    "disz": "narancs peel-lel illatosítjuk",
+    "osszetevok": [
+      {
+        "mennyiseg": "3 cl",
+        "name": "gin"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "vermouth rosso"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "dry vermouth"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "narancslé"
+      }
+    ],
+    "alapszesz": "gin"
+  },
+  {
+    "fajta": "aperitif",
+    "pohar": "koktél",
+    "name": "Daiquiri",
+    "disz": "lime-karika",
+    "osszetevok": [
+      {
+        "mennyiseg": "4,5 cl",
+        "name": "fehér rum"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "citromlé vagy lime-lé"
+      },
+      {
+        "mennyiseg": "0,5 cl",
+        "name": "cukorszirup"
+      }
+    ],
+    "alapszesz": "fehér rum"
+  },
+  {
+    "fajta": "aperitif",
+    "pohar": "koktél",
+    "name": "Appletini",
+    "disz": "zöldalma",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "Cointreau"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "Sour Apple likőr"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "aperitif",
+    "pohar": "koktél",
+    "name": "Margarita",
+    "disz": "lime-szelet",
+    "osszetevok": [
+      {
+        "mennyiseg": "3,5 cl",
+        "name": "tequila"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Cointreau"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "lime-lé"
+      }
+    ],
+    "alapszesz": "tequila"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "koktél",
+    "name": "Manhattan",
+    "disz": "nyársra szúrt koktélcseresznye",
+    "osszetevok": [
+      {
+        "mennyiseg": "5 cl",
+        "name": "canadian whisky"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "vermouth rosso"
+      },
+      {
+        "mennyiseg": "2 csepp",
+        "name": "Angostura bitter"
+      }
+    ],
+    "alapszesz": "whisky"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Swimming Pool",
+    "disz": "ananászszelet és koktélcseresznye",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Blue Curacao"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "kókuszszirup"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "tejszín"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "ananászlé"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "medium",
+    "pohar": "old fashioned",
+    "name": "Caipirinha",
+    "disz": "szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "5 cl",
+        "name": "cachaca"
+      },
+      {
+        "mennyiseg": "1 bárkanál",
+        "name": "barna cukor"
+      },
+      {
+        "mennyiseg": "fél",
+        "name": "lime"
+      }
+    ],
+    "alapszesz": "cachaca"
+  },
+  {
+    "fajta": "aperitif",
+    "pohar": "koktél",
+    "name": "Side Car",
+    "disz": "narancs peel",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "cognac"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Cointreau"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "citromlé"
+      }
+    ],
+    "alapszesz": "cognac"
+  },
+  {
+    "fajta": "aperitif",
+    "pohar": "shot",
+    "name": "Absolut Flying",
+    "disz": "lime karika égő cukorral",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "pár csepp",
+        "name": "overproof rum"
+      },
+      {
+        "mennyiseg": "1 szelet",
+        "name": "lime"
+      },
+      {
+        "mennyiseg": "1 bárkanál",
+        "name": "barna cukor"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Pina Colada",
+    "disz": "ananászcikk, koktélcseresznye, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "fehér rum"
+      },
+      {
+        "mennyiseg": "3 cl",
+        "name": "kókuszszirup"
+      },
+      {
+        "mennyiseg": "negyed",
+        "name": "ananász"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "ananászlé"
+      }
+    ],
+    "alapszesz": "fehér rum"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Mojito 1.",
+    "disz": "szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "fehér rum"
+      },
+      {
+        "mennyiseg": "1 bárkanál",
+        "name": "darált cukor"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "lime-lé"
+      },
+      {
+        "mennyiseg": "1",
+        "name": "mentaág"
+      },
+      {
+        "mennyiseg": "top",
+        "name": "szóda"
+      }
+    ],
+    "alapszesz": "fehér rum"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Mojito 2.",
+    "disz": "koktélcseresznye, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "fehér rum"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "cukorszirup"
+      },
+      {
+        "mennyiseg": "3 gerezd",
+        "name": "lime"
+      },
+      {
+        "mennyiseg": "1",
+        "name": "mentaág"
+      },
+      {
+        "mennyiseg": "top",
+        "name": "szóda"
+      }
+    ],
+    "alapszesz": "fehér rum"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Tequila Sunrise",
+    "disz": "narancsszelet, koktélcseresznye, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "4,5 cl",
+        "name": "tequila"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "narancslé"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "grenadine szirup"
+      }
+    ],
+    "alapszesz": "tequila"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Cuba Libre",
+    "disz": "lime, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "5 cl",
+        "name": "fehér rum"
+      },
+      {
+        "mennyiseg": "fél",
+        "name": "lime"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "kóla"
+      }
+    ],
+    "alapszesz": "fehér rum"
+  },
+  {
+    "fajta": "másnaposság ellen",
+    "pohar": "long drink",
+    "name": "Bloody Mary",
+    "disz": "zellerszár vagy citromszelet, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "4,5 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "9 cl",
+        "name": "paradicsomlé"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "citromlé"
+      },
+      {
+        "mennyiseg": "1 csipet",
+        "name": "bors, só"
+      },
+      {
+        "mennyiseg": "2 csepp",
+        "name": "Tabasco"
+      },
+      {
+        "mennyiseg": "2 csepp",
+        "name": "Worcestershire-szósz"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "aperitif",
+    "pohar": "koktél",
+    "name": "Dry Martini",
+    "disz": "nyársra szúrt olivabogyó",
+    "osszetevok": [
+      {
+        "mennyiseg": "5,5 cl",
+        "name": "gin"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "dry vermouth"
+      }
+    ],
+    "alapszesz": "gin"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Screwdriver",
+    "disz": "narancsszelet, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "5 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "10 cl",
+        "name": "narancslé"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "koktél",
+    "name": "Flaming Lamborghini",
+    "disz": "égő ital, fahéj",
+    "osszetevok": [
+      {
+        "mennyiseg": "0,5 cl",
+        "name": "grenadine szirup"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Sambuca"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Metaxa 5*"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "Vanília likőr"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "overproof rum"
+      }
+    ],
+    "alapszesz": "likőr"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Sex on the Beach",
+    "disz": "narancsszelet, koktélcseresznye, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Peach likőr"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "narancslé"
+      },
+      {
+        "mennyiseg": "4 cl",
+        "name": "áfonyalé"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "aperitif",
+    "pohar": "old fashioned",
+    "name": "Whiskey Sour",
+    "disz": "lime-cikk",
+    "osszetevok": [
+      {
+        "mennyiseg": "4,5 cl",
+        "name": "Bourbon whiskey"
+      },
+      {
+        "mennyiseg": "3 cl",
+        "name": "citromlé"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "cukorszirup"
+      }
+    ],
+    "alapszesz": "Bourbon whiskey"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Singapore Sling",
+    "disz": "citromszelet, koktélcseresznye, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "gin"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Cherry Brandy"
+      },
+      {
+        "mennyiseg": "0,5 cl",
+        "name": "Cointreau"
+      },
+      {
+        "mennyiseg": "0,5 cl",
+        "name": "Dom Benedictine likőr"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "grenadine szirup"
+      },
+      {
+        "mennyiseg": "3 cl",
+        "name": "citromlé"
+      },
+      {
+        "mennyiseg": "2 csepp",
+        "name": "Angostura bitter"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "ananászlé"
+      },
+      {
+        "mennyiseg": "3 cl",
+        "name": "szóda"
+      }
+    ],
+    "alapszesz": "gin"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "koktél",
+    "name": "Grasshopper",
+    "disz": "koktélcseresznye",
+    "osszetevok": [
+      {
+        "mennyiseg": "2 cl",
+        "name": "Creme de Cacao white"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Creme de Menthe green"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "tejszín"
+      }
+    ],
+    "alapszesz": "likőr"
+  },
+  {
+    "fajta": "rétegezett shot",
+    "pohar": "shot",
+    "name": "B52",
+    "disz": "nincs",
+    "osszetevok": [
+      {
+        "mennyiseg": "2 cl",
+        "name": "Coffee likőr"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Carolans"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Cointreau"
+      }
+    ],
+    "alapszesz": "likőr"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "koktél",
+    "name": "Golden Cadillec",
+    "disz": "nincs",
+    "osszetevok": [
+      {
+        "mennyiseg": "2 cl",
+        "name": "Vanília likőr"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Creme de Cacao white"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "tejszín"
+      }
+    ],
+    "alapszesz": "likőr"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "old fashioned",
+    "name": "Black Russian",
+    "disz": "rövidre vágott szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "5 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Coffee likőr"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "old fashioned",
+    "name": "White Russian",
+    "disz": "rövidre vágott szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "5 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Coffee likőr"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "tejszín"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "shot",
+    "name": "Bloody Brain",
+    "disz": "nincs",
+    "osszetevok": [
+      {
+        "mennyiseg": "3 cl",
+        "name": "Peach likőr"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "Carolans"
+      },
+      {
+        "mennyiseg": "0,5 cl",
+        "name": "grenadine szirup"
+      }
+    ],
+    "alapszesz": "likőr"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Summer Fresh",
+    "disz": "narancsszelet, koktélcseresznye, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "maracujalikőr"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "eperszirup"
+      },
+      {
+        "mennyiseg": "fél",
+        "name": "lime"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "almalé"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "medium",
+    "pohar": "koktél",
+    "name": "Cosmopolitan",
+    "disz": "lime-szelet",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "Cointreau"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "lime-lé"
+      },
+      {
+        "mennyiseg": "3 cl",
+        "name": "áfonyalé"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Riccoccone",
+    "disz": "phisalys",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "kókuszszirup"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "passion fruit szirup"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "tejszín"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "grenadine szirup"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "ananászlé"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Garibaldi",
+    "disz": "narancsszelet, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "4,5 cl",
+        "name": "Campari"
+      },
+      {
+        "mennyiseg": "9 cl",
+        "name": "narancslé"
+      }
+    ],
+    "alapszesz": "Campari"
+  },
+  {
+    "fajta": "medium",
+    "pohar": "long drink",
+    "name": "Gin Fizz",
+    "disz": "lime- vagy citromszelet, koktélcseresznye, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "gin"
+      },
+      {
+        "mennyiseg": "1 púpos bárkanál",
+        "name": "darált cukor"
+      },
+      {
+        "mennyiseg": "3 cl",
+        "name": "citromlé"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "szóda"
+      }
+    ],
+    "alapszesz": "gin"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "old fashioned",
+    "name": "Godmother",
+    "disz": "nyársra szúrt koktélcseresznye, rövidre vágott szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "3,5 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "3,5 cl",
+        "name": "Amaretto likőr"
+      }
+    ],
+    "alapszesz": "vodka"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "old fashioned",
+    "name": "Godfather",
+    "disz": "nyársra szúrt koktélcseresznye, rövidre vágott szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "3,5 cl",
+        "name": "Grant's whisky"
+      },
+      {
+        "mennyiseg": "3,5 cl",
+        "name": "Amaretto likőr"
+      }
+    ],
+    "alapszesz": "whisky"
+  },
+  {
+    "fajta": "medium",
+    "pohar": "long drink",
+    "name": "Long Island Iced Tea",
+    "disz": "lime-szelet, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "gin"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "fehér rum"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "tequila"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "Cointreau"
+      },
+      {
+        "mennyiseg": "2,5 cl",
+        "name": "citromlé"
+      },
+      {
+        "mennyiseg": "3 cl",
+        "name": "cukorszirup"
+      },
+      {
+        "mennyiseg": "top",
+        "name": "kóla"
+      }
+    ],
+    "alapszesz": "white spiritek"
+  },
+  {
+    "fajta": "aperitif",
+    "pohar": "koktél",
+    "name": "White Lady",
+    "disz": "citromszelet",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "gin"
+      },
+      {
+        "mennyiseg": "3 cl",
+        "name": "Cointreau"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "citromlé"
+      }
+    ],
+    "alapszesz": "gin"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Mai Tai",
+    "disz": "ananászszelet, mentaág, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "3 cl",
+        "name": "barna rum"
+      },
+      {
+        "mennyiseg": "3 cl",
+        "name": "fehér rum"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "Triple Sec"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Apricot Brandy"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "mandulaszirup"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "friss lime-lé"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "ananászlé"
+      }
+    ],
+    "alapszesz": "rum"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "old fashioned",
+    "name": "Old Fashioned",
+    "disz": "narancs peel",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "Bourbon whiskey"
+      },
+      {
+        "mennyiseg": "2 csepp",
+        "name": "Angostura bitter"
+      },
+      {
+        "mennyiseg": "1 bárkanál",
+        "name": "barna cukor"
+      },
+      {
+        "mennyiseg": "pici",
+        "name": "szóda"
+      }
+    ],
+    "alapszesz": "Bourbon whiskey"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "long drink",
+    "name": "Zombie",
+    "disz": "narancsszelet, koktélcseresznye, szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "2 cl",
+        "name": "fehér rum"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "barna rum"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "80% rum"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Cherry Brandy"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "grenadine szirup"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "citromlé"
+      },
+      {
+        "mennyiseg": "8 cl",
+        "name": "ananászlé"
+      }
+    ],
+    "alapszesz": "rum"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "old fashioned",
+    "name": "Orgazmus",
+    "disz": "rövidre vágott szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "2 cl",
+        "name": "Coconut likőr"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Amaretto likőr"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Carolans"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "tejszín"
+      }
+    ],
+    "alapszesz": "likőr"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "old fashioned",
+    "name": "Screaming Orgazmus",
+    "disz": "rövidre vágott szívószál",
+    "osszetevok": [
+      {
+        "mennyiseg": "2 cl",
+        "name": "Coffee likőr"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "vodka"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Coconut likőr"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Carolans"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "Amaretto likőr"
+      },
+      {
+        "mennyiseg": "2 cl",
+        "name": "tejszín"
+      }
+    ],
+    "alapszesz": "likőr"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "koktél",
+    "name": "Perfect Manhattan (women)",
+    "disz": "nyársra szúrt koktélcseresznye",
+    "osszetevok": [
+      {
+        "mennyiseg": "4 cl",
+        "name": "Bourbon whiskey"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "vermouth rosso"
+      },
+      {
+        "mennyiseg": "1,5 cl",
+        "name": "dry vermouth"
+      },
+      {
+        "mennyiseg": "2 csepp",
+        "name": "Angostura bitter"
+      }
+    ],
+    "alapszesz": "whisky"
+  },
+  {
+    "fajta": "digestif",
+    "pohar": "koktél",
+    "name": "Perfect Manhattan (men)",
+    "disz": "nyársra szúrt koktélcseresznye",
+    "osszetevok": [
+      {
+        "mennyiseg": "5 cl",
+        "name": "Bourbon whiskey"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "vermouth rosso"
+      },
+      {
+        "mennyiseg": "1 cl",
+        "name": "dry vermouth"
+      },
+      {
+        "mennyiseg": "2 csepp",
+        "name": "Angostura bitter"
+      }
+    ],
+    "alapszesz": "whisky"
+  }
+]
